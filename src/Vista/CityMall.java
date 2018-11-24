@@ -12,7 +12,7 @@ import javax.swing.ImageIcon;
  * @author Usuario
  */
 public class CityMall extends javax.swing.JFrame {
-
+    //Hola mundo
     /**
      * Creates new form CityMall
      */
